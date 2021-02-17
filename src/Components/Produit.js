@@ -24,7 +24,9 @@ function Produit() {
               ullamcorper faucibus purus, eu cursus lorem ullamcorper non.
               Vivamus commodo nibh eu elementum dictum.
             </p>
-            <button>Achètes pour 70$ fdp</button>
+            <div className="container-button">
+              <button>Achètes pour 70$</button>
+            </div>
           </div>
         </div>
       </div>

@@ -7,12 +7,14 @@ import Qui from "./Components/Qui.js";
 function App() {
   return (
     <div className="App">
+      <div className="container">
       <div className="left">&nbsp;</div>
-      <div className="right"></div>
+      <div className="right">&nbsp;</div>
       <Header />
       <Body />
       <Qui />
       <Produit />
+      </div>
     </div>
   );
 }

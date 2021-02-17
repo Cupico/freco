@@ -10,7 +10,7 @@ function Header() {
           <p className="title">Freco</p>
         </div>
         <div>
-          <p>Acheter notre produit</p>
+          <p>Notre produit</p>
         </div>
       </div>
     </div>
