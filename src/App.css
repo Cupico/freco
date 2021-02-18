@@ -23,6 +23,18 @@ a {
   padding: 0px 40px 40px 40px;
 }
 
+.socialmedia{
+  display: flex;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.socialmedia img{
+ cursor: pointer;
+}
+
 .left {
   position: fixed;
   width: 50%;
@@ -243,6 +255,9 @@ button {
   transition: all 0.2s;
   float: right;
   margin-top: 30px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
 }
 
 button:hover {

@@ -31,23 +31,28 @@ function Produit() {
             <p className="description-title">Description</p>
             <p className="text-description">
               {" "}
-              Garde-manger en mode frigo américain (2 portes) fabriqué en bois,
-              qui a pour dimension 1,70m et 1.10m. <br />
+              Fabriqué en bois 
+              <br />
+              Dimension : 1,70m x 1.10m. <br />
               <br />
               Composé de différent compartiment pour des rangements différents :{" "}
               <br />
               <br />- Aéré, à la lumière de la pièce : abricot, aubergine,
               avocat mais également œufs et beurre s’il ne fait pas trop chaud,
-              tiroir qui est aéré <br />
+              tiroir qui est aéré. <br />
               <br />- Sec, aéré et sombre : pomme de terre, oignons, ail,
               courges, évite la germination des tubercules, racines et limite la
               maturation de certains fruits. <br />
-              <br /> - Sombre, frais et humide <br />
+              <br /> - Sombre, frais et humide. <br />
               <br />- Zeerpot : poterie imbriquée dans une seconde poterie.
               Entre les 2 deux, du sable est ajouté. Les aliments sont placés
               dans la poterie du milieu et le sable est régulièrement humidifié.
               Par effet d’évapo-transpiration, la température intérieure peut
               descendre de 5 à 10°C par rapport à la température ambiante.
+              <br /><br />
+              - Compost
+              <br /><br />
+              - Eventuellement un mini-frigo
             </p>
             <div className="container-button">
               <button>Acheter pour 150€</button>
