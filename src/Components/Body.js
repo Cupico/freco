@@ -37,14 +37,9 @@ function Body() {
         </button>
       </div>
       <div className="container-right">
-        <p className="title-right">Une entreprise dans le low-tech</p>
+        <p className="title-right">Le garde-manger comme solution</p>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-          elementum feugiat orci, non commodo sapien. Fusce viverra felis quis
-          orci rhoncus eleifend. Maecenas semper cursus tortor eget ullamcorper.
-          Vestibulum quis malesuada urna, eu rhoncus tellus. In ullamcorper
-          faucibus purus, eu cursus lorem ullamcorper non. Vivamus commodo nibh
-          eu elementum dictum.
+          Pour pallier aux problèmes de gaspillage alimentaire et réduire la consommation d'énergie d'un foyer, notre garde-manger s'inscrit dans une démarche d'alimentation durable. 
         </p>
       </div>
     </div>
