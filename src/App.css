@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap");
 
 body {
   margin: 0;
@@ -9,7 +8,7 @@ body {
   font-size: 1.2rem;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -17,9 +16,8 @@ a{
   margin: 0;
   width: 100%;
   height: 100%;
-  font-family: 'Maven Pro', sans-serif;;
+  font-family: "Maven Pro", sans-serif;
 }
-
 
 .container {
   padding: 0px 40px 40px 40px;
@@ -47,8 +45,6 @@ a{
   height: 100%;
 }
 
-
-
 .header p {
   margin: 0 auto;
   color: #ffffff;
@@ -56,8 +52,8 @@ a{
 }
 
 .header img {
- width: 100px;
- margin-left: 0px;
+  width: 100px;
+  margin-left: 0px;
 }
 
 .navbar {
@@ -70,18 +66,18 @@ a{
 }
 /* BODY */
 
-.slogan{
+.slogan {
   margin: 0 auto;
   width: 90%;
   text-align: center;
   font-size: 2rem;
-  color:white;
+  color: white;
   font-family: "Stylish", "sans-serif";
   text-shadow: 1px 1px black;
 }
 
-.freco{
-  color:#9B5C35;
+.freco {
+  color: #9b5c35;
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -107,7 +103,7 @@ a{
 .title-left {
   font-size: 2.2rem;
   text-transform: uppercase;
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   font-weight: bold;
   letter-spacing: 0.2rem;
 }
@@ -117,6 +113,7 @@ a{
   align-items: center;
   justify-content: center;
   animation: slideinimg 1.5s forwards;
+  position: relative;
 }
 
 .container-center img {
@@ -132,7 +129,7 @@ a{
 .title-right {
   font-size: 2.2rem;
   text-transform: uppercase;
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   font-weight: bold;
   letter-spacing: 0.2rem;
 }
@@ -143,13 +140,12 @@ a{
   color: #ffffff;
 }
 
-.qui-nous{
+.qui-nous {
   display: flex;
- justify-content: flex-end;
-
+  justify-content: flex-end;
 }
 
-.text-qui{
+.text-qui {
   margin-top: 50px;
   text-align: center;
 }
@@ -200,6 +196,7 @@ a{
 }
 
 .card-img img {
+  margin: 0 auto;
   margin-top: 30px;
   width: 100%;
   background-color: #ebf0e6;
@@ -247,23 +244,39 @@ button:hover {
   color: black;
 }
 
-
-.button-img{
+.button-img {
   position: absolute;
   bottom: 0;
   right: 0;
 }
 
-.description-title{
-  color:#76b536;
+.description-title {
+  color: #76b536;
   font-size: 1rem;
 }
 
-.garde-manger{
+.garde-manger {
   font-size: 2rem;
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   font-weight: bold;
 }
+
+.logo-card {
+  margin-top: 30px;
+}
+
+.logo-card img {
+  width: 50px;
+  margin-right: 30px;
+}
+
+.container-svg {
+  padding: 15px 0px;
+  display: flex;
+  align-items: center;
+}
+
+
 
 @media screen and (max-width: 992px) {
   .container-center img {
@@ -316,15 +329,14 @@ button:hover {
     width: 100%;
   }
 
-  .text-qui{
+  .text-qui {
     margin-top: 50px;
     text-align: left;
   }
 
-
-.button-img{
-  right: initial;
-}
+  .button-img {
+    right: initial;
+  }
 }
 
 @keyframes door {

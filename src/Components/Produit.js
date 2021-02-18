@@ -11,6 +11,20 @@ function Produit() {
               <p>150€</p>
             </div>
           </div>
+          <div className="logo-card">
+            <div className="container-svg">
+              <img src="recycler.svg" alt="recyclage" />
+              <p>Réduction du gaspiallage alimentaire</p>
+            </div>
+            <div className="container-svg">
+              <img src="economie.svg" alt="économie" />
+              <p>Economie d'éléctricité</p>
+            </div>
+            <div className="container-svg">
+              <img src="conserver.svg" alt="conserver" />
+              <p>Conserve les valeurs nutrionnelles des aliments</p>
+            </div>
+          </div>
         </div>
         <div className="card">
           <div className="text">
