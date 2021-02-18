@@ -6,7 +6,7 @@ function Produit() {
         <div className="card">
           <div className="card-img">
             <p>Garde-Manger</p>
-            <img src="gardemanger.jpg" alt="Garde-Manger" />
+            <img src="freco3.png" alt="Garde-Manger" />
             <div className="price">
               <p>$70</p>
             </div>
