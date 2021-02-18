@@ -22,7 +22,7 @@ function Body() {
   return (
     <div className="container-body">
       <div className="container-left">
-        <p className="title-left">Une entreprise dans le low-tech</p>
+        <p className="title-left">Une entreprise dans le domaine du low-tech</p>
         <p>
           Notre entreprise "Freco" est une entreprise qui a pour mission de
           construire des garde-manger en bois afin de conserver tout type
