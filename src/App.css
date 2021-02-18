@@ -117,7 +117,6 @@ a{
   align-items: center;
   justify-content: center;
   animation: slideinimg 1.5s forwards;
-  padding: 0px 50px;
 }
 
 .container-center img {
@@ -315,7 +314,11 @@ button:hover {
   .container-left,
   .container-right {
     width: 100%;
+  }
 
+  .text-qui{
+    margin-top: 50px;
+    text-align: left;
   }
 
 
