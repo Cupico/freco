@@ -52,14 +52,9 @@ a{
   cursor: pointer;
 }
 
-.header .title {
-  margin: 0 auto;
-  color: #ffffff;
-  font-weight: bold;
-  letter-spacing: 0.1rem;
-  font-size: 2rem;
-  text-transform: uppercase;
-  font-family: 'Stylish', sans-serif;
+.header img {
+ width: 100px;
+ margin-left: 0px;
 }
 
 .navbar {
@@ -72,8 +67,23 @@ a{
 }
 /* BODY */
 
+.slogan{
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+  font-size: 2rem;
+  color:white;
+  font-family: "Stylish", "sans-serif";
+}
+
+.freco{
+  color:#9B5C35;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
 .container-body {
-  margin-top: 12%;
+  margin-top: 8%;
   display: flex;
   justify-content: space-between;
   width: 100%;

@@ -9,7 +9,7 @@ function Header() {
         </div>
 
         <div>
-          <p className="title">Freco</p>
+          <img src="freco-logo.png" alt=""/>
         </div>
         <div>
           <a href="#notre-produit">

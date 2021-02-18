@@ -18,6 +18,9 @@ function App() {
         <div className="left">&nbsp;</div>
         <div className="right">&nbsp;</div>
         <Header />
+        <div className="slogan">
+        <p><span className="freco">Freco</span>, le plus écolo des frigos !</p>
+        </div>
         <Body />
         <Qui />
         <Produit />

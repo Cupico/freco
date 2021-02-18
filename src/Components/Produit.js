@@ -8,7 +8,7 @@ function Produit() {
             <p className="garde-manger">Garde-Manger</p>
             <img src="freco3.png" alt="Garde-Manger" />
             <div className="price">
-              <p>$70</p>
+              <p>150€</p>
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@ function Produit() {
               descendre de 5 à 10°C par rapport à la température ambiante.
             </p>
             <div className="container-button">
-              <button>Achètes pour 70$</button>
+              <button>Acheter pour 150€</button>
             </div>
           </div>
         </div>
