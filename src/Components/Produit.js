@@ -1,11 +1,11 @@
 function Produit() {
   return (
-    <div className="container-produit">
+    <div id="notre-produit" className="container-produit">
       <p className="section-title">Notre produit</p>
       <div className="container-cards">
         <div className="card">
           <div className="card-img">
-            <p>Garde-Manger</p>
+            <p className="garde-manger">Garde-Manger</p>
             <img src="freco3.png" alt="Garde-Manger" />
             <div className="price">
               <p>$70</p>
@@ -14,15 +14,26 @@ function Produit() {
         </div>
         <div className="card">
           <div className="text">
-            <p>Description</p>
+            <p className="description-title">Description</p>
             <p className="text-description">
               {" "}
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              elementum feugiat orci, non commodo sapien. Fusce viverra felis
-              quis orci rhoncus eleifend. Maecenas semper cursus tortor eget
-              ullamcorper. Vestibulum quis malesuada urna, eu rhoncus tellus. In
-              ullamcorper faucibus purus, eu cursus lorem ullamcorper non.
-              Vivamus commodo nibh eu elementum dictum.
+              Garde-manger en mode frigo américain (2 portes) fabriqué en bois,
+              qui a pour dimension 1,70m et 1.10m. <br />
+              <br />
+              Composé de différent compartiment pour des rangements différents :{" "}
+              <br />
+              <br />- Aéré, à la lumière de la pièce : abricot, aubergine,
+              avocat mais également œufs et beurre s’il ne fait pas trop chaud,
+              tiroir qui est aéré <br />
+              <br />- Sec, aéré et sombre : pomme de terre, oignons, ail,
+              courges, évite la germination des tubercules, racines et limite la
+              maturation de certains fruits. <br />
+              <br /> - Sombre, frais et humide <br />
+              <br />- Zeerpot : poterie imbriquée dans une seconde poterie.
+              Entre les 2 deux, du sable est ajouté. Les aliments sont placés
+              dans la poterie du milieu et le sable est régulièrement humidifié.
+              Par effet d’évapo-transpiration, la température intérieure peut
+              descendre de 5 à 10°C par rapport à la température ambiante.
             </p>
             <div className="container-button">
               <button>Achètes pour 70$</button>

@@ -1,6 +1,6 @@
 function Qui() {
   return (
-    <div className="qui">
+    <div id="qui-sommes-nous" className="qui">
       <p className="section-title">Qui sommes-nous ?</p>
       <p className="text">
         {" "}

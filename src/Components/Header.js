@@ -3,14 +3,18 @@ function Header() {
     <div className="header">
       <div className="navbar">
         <div>
-          <p>Qui sommes-nous ?</p>
+          <a href="#qui-sommes-nous">
+            <p>Qui sommes-nous ?</p>
+          </a>
         </div>
 
         <div>
           <p className="title">Freco</p>
         </div>
         <div>
-          <p>Notre produit</p>
+          <a href="#notre-produit">
+            <p>Notre produit</p>
+          </a>
         </div>
       </div>
     </div>
