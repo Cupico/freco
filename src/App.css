@@ -219,10 +219,6 @@ button:hover {
 }
 
 
-.door{
-  animation: door 0.5s forwards;
-}
-
 .button-img{
   position: absolute;
   bottom: 0;
