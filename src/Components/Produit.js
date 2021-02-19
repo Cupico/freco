@@ -35,7 +35,7 @@ function Produit() {
               <br />
               Dimension : 1,70m x 1.10m. <br />
               <br />
-              Composé de différent compartiment pour des rangements diverses :{" "}
+              Composé de différents compartiments pour des rangements diverses :{" "}
               <br />
               <br />- Aéré, à la lumière de la pièce : abricot, aubergine,
               avocat mais également œufs et beurre s’il ne fait pas trop chaud,

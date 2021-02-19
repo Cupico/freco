@@ -14,12 +14,12 @@ function Qui() {
         <br />
         <br />
         Dans le cadre d'un hackathon portant sur sur le domaine de la low-tech,
-        nous avons choisis de crée une entreprise, Freco, avec comme produit la
+        nous avons choisis de créer une entreprise, Freco, avec comme produit la
         création d'un garde-manger. Mais pourquoi un garde-manger ? D'une part
         car le réfrigérateur est source d'une grande consommation d'énergie dans
         le foyer, en règle générale, le frigo représente entre 15 et 20% de la
         consommation d'un foyer, avec une moyenne de 322 kWh par an. D'autres
-        part, il alimente le gaspillage alimentaire ; chaque année, la France
+        part, il alimente le gaspillages alimentaire ; chaque année, la France
         gaspille près de 10 millions de tonnes de produits alimentaires, soit
         317 kg par seconde (compteur). Sur ces 10 millions de tonnes, plus de
         1,2 concerne de la nourriture encore consommable. C'est fortement dû aux

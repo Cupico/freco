@@ -25,7 +25,7 @@ function Body() {
         <p className="title-left">Une entreprise dans le domaine du low-tech</p>
         <p>
           Notre entreprise "Freco" est une entreprise qui a pour mission de
-          construire des garde-manger en bois afin de conserver tout type
+          construire des garde-manger en bois à fin de conserver tout type
           d'aliments. Nous voulons donc remplacer le réfrigérateur électrique
           par un garde-manger qui n'utilise très peu voir aucune énergie.
         </p>
