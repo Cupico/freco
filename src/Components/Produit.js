@@ -14,7 +14,7 @@ function Produit() {
           <div className="logo-card">
             <div className="container-svg">
               <img src="recycler.svg" alt="recyclage" />
-              <p>Réduction du gaspiallage alimentaire</p>
+              <p>Réduction du gaspillage alimentaire</p>
             </div>
             <div className="container-svg">
               <img src="economie.svg" alt="économie" />
